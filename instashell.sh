@@ -1,1 +1,2 @@
-https://instagram.com/nesteruk__diana?utm_medium=copy_link
+cd instashell/
+chmod 775 instashell.sh chmod 775 install.shNo
